@@ -62,7 +62,9 @@
 |[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)|![GitHub Repo stars](https://badgen.net/github/stars/MasuRii/opencode-smart-voice-notify)|Smart voice notification plugin with multiple TTS engines (ElevenLabs, Edge TTS, SAPI) and intelligent reminder system.|
 |[plannotator](https://github.com/backnotprop/plannotator)|![GitHub Repo stars](https://badgen.net/github/stars/backnotprop/plannotator)|Interactive plan review with visual annotation and private/offline sharing.|
 |[@openspoon/subtask2](https://github.com/spoons-and-mirrors/subtask2)|![GitHub Repo stars](https://badgen.net/github/stars/spoons-and-mirrors/subtask2)|Extend opencode /commands into a powerful orchestration system with granular flow control.|
-➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/plugins)**
+|[opencode-direnv](https://github.com/simonwjackson/opencode-direnv)|![GitHub Repo stars](https://badgen.net/github/stars/simonwjackson/opencode-direnv)|Automatically loads direnv environment variables at session start. Perfect for Nix flakes and project-specific environments.|
+|[cc-safety-net](https://github.com/kenryu42/claude-code-safety-net)|![GitHub Repo stars](https://badgen.net/github/stars/kenryu42/claude-code-safety-net)|A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.|
+|[oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)|![GitHub Repo stars](https://badgen.net/github/stars/code-yeongyu/oh-my-opencode)|Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a Claude Code compatible layer.|
 
 ## Themes
 
