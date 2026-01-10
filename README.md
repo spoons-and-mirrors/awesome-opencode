@@ -36,6 +36,7 @@
 |[opencode-ignore](https://github.com/lgladysz/opencode-ignore)|![GitHub Repo stars](https://badgen.net/github/stars/lgladysz/opencode-ignore)|Plugin to ignore directory/file based on pattern.|
 |[opencode-warcraft-notifications](https://github.com/pantheon-org/opencode-warcraft-notifications)|![GitHub Repo stars](https://badgen.net/github/stars/pantheon-org/opencode-warcraft-notifications)|Notification plugin with Warcraft sounds for opencode completion alerts.|
 |[with-context-mcp](https://github.com/boxpositron/with-context-mcp)|![GitHub Repo stars](https://badgen.net/github/stars/boxpositron/with-context-mcp)|MCP server for managing project-specific markdown notes with templates, batch edits, and ignore patterns.|
+|[cc-safety-net](https://github.com/kenryu42/claude-code-safety-net)|![GitHub Repo stars](https://badgen.net/github/stars/kenryu42/claude-code-safety-net)|A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.|
 |[opencode-skills](https://github.com/malhashemi/opencode-skills)|![GitHub Repo stars](https://badgen.net/github/stars/malhashemi/opencode-skills)|Plugin for managing and organising opencode skills and capabilities.|
 |[openskills](https://github.com/numman-ali/openskills)|![GitHub Repo stars](https://badgen.net/github/stars/numman-ali/openskills)|Alternative skills management plugin for opencode with enhanced features.|
 |[opencode-smart-title](https://github.com/Tarquinen/opencode-smart-title)|![GitHub Repo stars](https://badgen.net/github/stars/Tarquinen/opencode-smart-title)|Auto-generates meaningful session titles using AI.|
@@ -62,11 +63,8 @@
 |[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)|![GitHub Repo stars](https://badgen.net/github/stars/MasuRii/opencode-smart-voice-notify)|Smart voice notification plugin with multiple TTS engines (ElevenLabs, Edge TTS, SAPI) and intelligent reminder system.|
 |[plannotator](https://github.com/backnotprop/plannotator)|![GitHub Repo stars](https://badgen.net/github/stars/backnotprop/plannotator)|Interactive plan review with visual annotation and private/offline sharing.|
 |[@openspoon/subtask2](https://github.com/spoons-and-mirrors/subtask2)|![GitHub Repo stars](https://badgen.net/github/stars/spoons-and-mirrors/subtask2)|Extend opencode /commands into a powerful orchestration system with granular flow control.|
-|[opencode-direnv](https://github.com/simonwjackson/opencode-direnv)|![GitHub Repo stars](https://badgen.net/github/stars/simonwjackson/opencode-direnv)|Automatically loads direnv environment variables at session start. Perfect for Nix flakes and project-specific environments.|
-|[cc-safety-net](https://github.com/kenryu42/claude-code-safety-net)|![GitHub Repo stars](https://badgen.net/github/stars/kenryu42/claude-code-safety-net)|A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.|
-|[oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)|![GitHub Repo stars](https://badgen.net/github/stars/code-yeongyu/oh-my-opencode)|Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a Claude Code compatible layer.|
 
-## Themes
+➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/plugins)**
 
 |Name|Stars|Description|
 |---|---|---|
